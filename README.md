@@ -80,6 +80,4 @@ This dashboard demonstrates:
 
 ---
 
-## 📸 Dashboard Preview
 
-(Add dashboard screenshot here)
